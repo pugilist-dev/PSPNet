@@ -1,4 +1,5 @@
 # PSPNet
+This is the implementation of the network pyramid Scene Parsing Network https://arxiv.org/abs/1612.01105. This is a deep learning network used for general understanding of the scene. In this implementation we use it for Semantic Segmentation.
 Training and Dataset:
 Citys dataset should be downloaded. It is available at
 https://www.cityscapes-dataset.com/
